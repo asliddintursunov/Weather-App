@@ -77,3 +77,11 @@ h6{
     border-radius: 3px;
     cursor:default;
 }
+p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: wheat;
+    font-family: cursive;
+}
